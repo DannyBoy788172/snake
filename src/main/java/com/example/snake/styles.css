@@ -1,0 +1,19 @@
+/* estilo del juego */
+
+#juego {
+    -fx-background-color: #212121; /* Fondo oscuro */
+}
+
+.serpiente {
+    -fx-fill: #03DAC5; /* Color de la serpiente */
+}
+
+.fruta {
+    -fx-fill: #FF4081; /* Color de la fruta */
+}
+
+.game-over {
+    -fx-font-size: 35px;
+    -fx-fill: white;
+    -fx-stroke: red;
+}
